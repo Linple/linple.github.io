@@ -1268,6 +1268,9 @@ header.header {
 .links-of-author .fas {
   margin-right: 2px;
 }
+.links-of-author-item {
+  text-align: center;
+}
 .sidebar .sidebar-button:not(:first-child) {
   margin-top: 15px;
 }
